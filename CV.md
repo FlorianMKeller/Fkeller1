@@ -6,7 +6,7 @@
 
 2020-2023 
 
-: **Master Studies** at Ulm University                                       ![image](UlmUniversity.png){: style="float: left"}{: width="2" }                  
+: **Master Studies** at Ulm University                                       ![image](UlmUniversity.png){: style="float:left"}{: width="10%" }                  
 
   * Thesis: Surface and Mechanistic Studies for Electrochemical CO2-Reduction over CeO2 
 
