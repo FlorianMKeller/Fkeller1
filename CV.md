@@ -20,13 +20,19 @@
 -----------------------------------------
 ### Extra-Curricular Activities
 
-04/2020-03/2022 
+![image](UlmUniversity.png){: align="right"}{: width="15%" } 
 
-: **Member in the Studies Committee for Chemistry** at Ulm University  
+04/2020-03/2022  
+
+: **Member in the Studies Committee for Chemistry** at Ulm University
+
+![image](UlmUniversity.png){: align="right"}{: width="15%" } 
 
 04/2019-03/2022 
 
 : **Member in the University’s Senate Committee for Teaching** at Ulm University 
+
+![image](UlmUniversity.png){: align="right"}{: width="15%" } 
 
 04/2018-03/2022 
 
