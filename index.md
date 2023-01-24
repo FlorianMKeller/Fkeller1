@@ -22,3 +22,7 @@ Education
 : ** Master Studies**; Ulm University 
 
   * Thesis: Surface and Mechanistic Studies for Electrochemical CO2-Reduction over CeO2 *
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
+</div>
