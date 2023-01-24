@@ -1,15 +1,15 @@
 ---
-title: About Alembic
+title: About Myself
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Florian Keller
+  Florian Michael Keller - MSc.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Welcome to my personal Github page. Please feel free to get into contact with me at any time if you are interested in me or my work!"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Welcome to my personal Github page. Please feel free to get into contact with me at any time if you are interested in me or my work!
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Github" icon="github" link="https://github.com/FlorianMKeller" color="#0366d6" %} {% include button.html text="Email 📩" link="florian.keller@uni-ulm.de" color="#f68140" %} {% include button.html text="Link with me" icon="linkedin" link="https://www.linkedin.com/in/florian-keller-9b49b7259/" color="#0A66C2" %} {% include button.html text="Researchgate" link="https://www.researchgate.net/profile/Florian_Keller9" color="#2bc9ee" %}
 
 ## Features
 
