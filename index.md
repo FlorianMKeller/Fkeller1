@@ -23,6 +23,5 @@ Education
 
   * Thesis: Surface and Mechanistic Studies for Electrochemical CO2-Reduction over CeO2 *
 
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
-</div>
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
