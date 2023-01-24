@@ -30,4 +30,4 @@
 
 04/2018-03/2022 
 
-: **Member in the University’s Accreditation Commission** 
+: **Member in the University’s Accreditation Commission** at Ulm University 
