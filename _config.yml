@@ -128,6 +128,8 @@ navigation_header:
   url: /projects/
 - title: CV
   url: /CV/
+- title: Publications
+  url: /publications/
 - title: Blog
   url: /blog/
 - title: Contacts
