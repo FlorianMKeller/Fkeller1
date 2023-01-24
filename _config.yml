@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Florian Keller" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Welchome to my personal website. Please feel free to get into contact with me at any time if you are interested in me or my work." # Site description and default description, also used in jekyll-seo-tag
+description: "Welcome to my personal website. Please feel free to get into contact with me at any time if you are interested in me or my work." # Site description and default description, also used in jekyll-seo-tag
 url: "https://florianmkeller.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 #repo: "https://github.com/daviddarnes/alembic"
