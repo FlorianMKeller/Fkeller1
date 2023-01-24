@@ -4,14 +4,14 @@
 
 ### Education
 
-2020-2022    ![image](UlmUniversity.png){: align="right"}{: width="25%" }  
+10/2020-11/2022    ![image](UlmUniversity.png){: align="right"}{: width="25%" }  
 
 : **Master Studies** at Ulm University                                                     
 
    *Thesis: Surface and Mechanistic Studies for Electrochemical CO2-Reduction over CeO2* 
 
 
-2017-2020    ![image](UlmUniversity.png){: align="right"}{: width="25%" } 
+10/2017-10/2020    ![image](UlmUniversity.png){: align="right"}{: width="25%" } 
 
 : **Bachelor Studies** at Ulm University 
 
