@@ -9,7 +9,7 @@ excerpt: "Welcome to my personal Github page. Please feel free to get into conta
 
 Welcome to my personal Github page. Please feel free to get into contact with me at any time if you are interested in me or my work!
 
-{% include button.html text="Github" icon="github" link="https://github.com/FlorianMKeller" color="#0366d6" %} {% include button.html text="Email 📩" mailto="florian.keller@uni-ulm.de" color="#f68140" %} {% include button.html text="Link with me" icon="linkedin" link="https://www.linkedin.com/in/florian-keller-9b49b7259/" color="#0A66C2" %} {% include button.html text="Researchgate" link="https://www.researchgate.net/profile/Florian_Keller9" color="#2bc9ee" %}
+{% include button.html text="Github" icon="github" link="https://github.com/FlorianMKeller" color="#0366d6" %} {% include button.html text="Email 📩" link="https://florianmkeller.github.io/contacts/" color="#f68140" %} {% include button.html text="Link with me" icon="linkedin" link="https://www.linkedin.com/in/florian-keller-9b49b7259/" color="#0A66C2" %} {% include button.html text="Researchgate" link="https://www.researchgate.net/profile/Florian_Keller9" color="#2bc9ee" %}
 
 ## Features
 
