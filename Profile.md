@@ -1,9 +1,9 @@
  ------------------------------
- **<font size="4"> <p style="line-height:1"><center> Florian Keller - MSc. </center></p></font>** <br>
+ **<font size="4"><center> Florian Keller - MSc. </center></p></font>** <br>
 
 
 <p align="center">
-  <img src="assets/logos/Profile-pic.png" width="200" />
+  <img src="https://github.com/FlorianMKeller/FlorianMKeller.github.io/blob/main/assets/logos/Profile-pic.png" width="6 cm" />
 </p>
 
 **<center> Theoretical and Experimental Chemist </center>**
