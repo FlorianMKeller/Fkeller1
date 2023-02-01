@@ -2,7 +2,9 @@
  **<font size="4"><center> Florian Keller - MSc. </center></font>**
 
 <img src="assets/logos/Profile-pic.png" style="height: 200px; width:200px;"/>
+
 ![image](assets/logos/NETPEC-Logo.jpg){: align="right"}{: width="15%" } 
+
 **<center> Theoretical and Experimental Chemist </center>**
 {% include button.html text="Github" icon="github" link="https://github.com/FlorianMKeller" color="#0366d6" %} {% include button.html text="Email📩" link="mailto:florian.m.keller@gmx.de" color="#f68140" %} {% include button.html text="Link with me" icon="linkedin" link="https://www.linkedin.com/in/florian-keller-9b49b7259/" color="#0A66C2" %} {% include button.html text="Researchgate" link="https://www.researchgate.net/profile/Florian_Keller9" color="#2bc9ee" %}  
   
