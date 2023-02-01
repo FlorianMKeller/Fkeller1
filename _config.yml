@@ -93,7 +93,7 @@ description: "Welcome to my personal website. Please feel free to get into conta
 url: "https://florianmkeller.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 #repo: "https://github.com/daviddarnes/alembic"
-email: "florian.keller@uni-ulm.de"
+email: "florian.m.keller@gmx.de"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
