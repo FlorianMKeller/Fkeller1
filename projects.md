@@ -38,6 +38,11 @@ feature_image:
 excerpt: ""
 aside: false
 ---
+
+<p>
+    <img src="assets/logos/NETPEC-description.png" alt>
+    <em>image_caption</em>
+</p>
 &emsp;
 
 
