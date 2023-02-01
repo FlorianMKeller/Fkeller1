@@ -3,7 +3,7 @@ title: About Myself
 feature_text: |
   ## Florian Keller
 
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "assets/logos/Banner.png"
 excerpt: "Welcome to my personal Github page. Please feel free to get into contact with me at any time if you are interested in me or my work!"
 ---
 
