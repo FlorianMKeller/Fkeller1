@@ -22,12 +22,12 @@ NETPEC stands for “**N**egative **E**mission **T**echnologies based on **P**ho
 During the time of my master thesis I was a part of this joint project regarding the modelling of possible CO2-reduction reactions over CeO2 surfaces. 
 Learn more:   [NEPTEC.org](https://netpec.org/ "Link")
 
-![image](assets/logos/NETPEC-description.png){: align="center"}{: width="75%" }
+![image](assets/logos/NETPEC-description.png){: align="center"}{: width="100%" }
 
-<p align="center">
+<p align="center"><font size="1"> 
   Principle of terrestrial photoelectrochemical carbon sinks. Atmospheric CO2 is captured into an electrolyte and converted to carbon-rich products in a cell using directly absorbed solar radiation. While some products (e.g., oxalate) may require postprocessing, others could be directly extracted for long-term storage (e.g., carbon flakes). The local climatic environment impacts the efficiency and conversion rate of the system, the storage potential depends on the product due to potential geochemical interactions between storage site and sink product.
 (https://doi.org/10.1002/aenm.202103801)
-</p>
+  </font></p>
 &emsp;
 
 
