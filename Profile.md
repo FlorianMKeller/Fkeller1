@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/FlorianMKeller/FlorianMKeller.github.io/blob/main/assets/logos/Profile-pic.png" width="6 cm" />
+  <img src="https://github.com/FlorianMKeller/FlorianMKeller.github.io/blob/main/assets/logos/Profile-pic.png" width="1000" />
 </p>
 
 **<center> Theoretical and Experimental Chemist </center>**
