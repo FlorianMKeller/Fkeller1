@@ -1,11 +1,11 @@
  ------------------------------
  **<font size="4"><center> Florian Keller - MSc. </center></p></font>** <br>
 
-
+<picture>
 <p align="center">
   <img src="https://github.com/FlorianMKeller/FlorianMKeller.github.io/blob/main/assets/logos/Profile-pic.png" />
 </p>
-
+</picture>
 **<center> Theoretical and Experimental Chemist </center>**
 {% include button.html text="Github" icon="github" link="https://github.com/FlorianMKeller" color="#0366d6" %} {% include button.html text="Email📩" link="mailto:florian.m.keller@gmx.de" color="#f68140" %} {% include button.html text="Link with me" icon="linkedin" link="https://www.linkedin.com/in/florian-keller-9b49b7259/" color="#0A66C2" %} {% include button.html text="Researchgate" link="https://www.researchgate.net/profile/Florian_Keller9" color="#2bc9ee" %}  
   
