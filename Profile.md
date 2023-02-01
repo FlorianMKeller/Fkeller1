@@ -1,6 +1,10 @@
  ------------------------------
- <font size="4"> <p style="line-height:1"><center> **Florian Keller - MSc.** </center></p></font> <br>
-<center>![image](assets/logos/Profile-pic.png){: align="center"}{: width="25%" }</center>
+ **<font size="4"> <p style="line-height:1"><center> Florian Keller - MSc. </center></p></font>** <br>
+
+
+<p align="center">
+  <img src="assets/logos/Profile-pic.png" width="200" />
+</p>
 
 **<center> Theoretical and Experimental Chemist </center>**
 {% include button.html text="Github" icon="github" link="https://github.com/FlorianMKeller" color="#0366d6" %} {% include button.html text="Email📩" link="mailto:florian.m.keller@gmx.de" color="#f68140" %} {% include button.html text="Link with me" icon="linkedin" link="https://www.linkedin.com/in/florian-keller-9b49b7259/" color="#0A66C2" %} {% include button.html text="Researchgate" link="https://www.researchgate.net/profile/Florian_Keller9" color="#2bc9ee" %}  
