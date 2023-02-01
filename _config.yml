@@ -118,7 +118,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Profile
-  url: /profile/
+  url: /Profile/
 - title: Projects
   url: /projects/
 - title: CV
