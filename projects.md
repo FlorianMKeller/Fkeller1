@@ -1,5 +1,5 @@
 ---
-title: Elements
+title: 
 feature_text: |
   A demo of Markdown and HTML includes
 feature_image: "https://picsum.photos/2560/600?image=873"
@@ -10,7 +10,7 @@ aside: false
 # Current Projects
 
 # Past Projects
-          ![image](NETPEC-logo.jpg){: align="right"}{: width="15%" }
+![image](assets/logos/NETPEC-Logo.jpg){: align="right"}{: width="100%" } 
 ## NETPEC
 
 NETPEC stands for “**N**egative **E**mission **T**echnologies based on **P**hoto**E**lectro**C**hemical Methods” and is a collaborative research project funded by the BMBF.  The overall goal of the NETPEC project is the development of highly efficient photoelectrochemical approaches to convert carbon dioxide into easily storable, safe and sustainable carbon sink products. This is accompanied by climate modeling, geological reservoir investigations and sustainability analysis, thus making the NETPEC project follow a holistic approach.
