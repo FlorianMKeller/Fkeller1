@@ -15,6 +15,5 @@ Florian obtained both his BSc. and MSc. at the University Ulm in Baden-Württemb
 <br>
 Away from his studies, Florian was active in the university's departmental representative committee at the time of his studies and has served on numerous university policy committees during this time. 
 <br>
-In addition, Florian was active as the drummer of the UniBigband for over five years and grows his own crystals in his spare time. You can find more information in the  [blog](https://florianmkeller.github.io/blog/ "link").
- 
- <a href="https://florianmkeller.github.io/blog/">blog</a>
+In addition, Florian was active as the drummer of the UniBigband for over five years and grows his own crystals in his spare time. You can find more information in the 
+ <a href="https://florianmkeller.github.io/blog/">blog</a>.
