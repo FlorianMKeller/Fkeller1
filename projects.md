@@ -8,7 +8,7 @@ aside: false
 --------------------------------------------
 # Current Projects
 
-<br></br>
+<br>
 
 
 # Past Projects
