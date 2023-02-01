@@ -2,13 +2,13 @@
 title: 
 feature_text: 
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: ""
 aside: false
 ---
 --------------------------------------------
 # Current Projects
 
-</br>
+<br></br>
 
 
 # Past Projects
@@ -30,6 +30,14 @@ Principle of terrestrial photoelectrochemical carbon sinks. Atmospheric CO2 is c
 (https://doi.org/10.1002/aenm.202103801)
 
     </font></p>
+    
+    ---
+title: 
+feature_text: "Principle of terrestrial photoelectrochemical carbon sinks. Atmospheric CO2 is captured into an electrolyte and converted to carbon-rich products in a cell using directly absorbed solar radiation. While some products (e.g., oxalate) may require postprocessing, others could be directly extracted for long-term storage (e.g., carbon flakes). The local climatic environment impacts the efficiency and conversion rate of the system, the storage potential depends on the product due to potential geochemical interactions between storage site and sink product."
+feature_image: 
+excerpt: ""
+aside: false
+---
 &emsp;
 
 
