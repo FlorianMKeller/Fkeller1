@@ -24,8 +24,7 @@ Learn more:   [NEPTEC.org](https://netpec.org/ "Link")
 <p style="line-height:0.1"></p>
 <p>
     <img src="/assets/logos/NETPEC-description.png" alt>
-    <p style="line-height:0.1"></p>
-    <em> <font size="2"> <p style="line-height:1.1"> Principle of terrestrial photoelectrochemical carbon sinks. Atmospheric CO2 is captured into an electrolyte and converted to carbon-rich products in a cell using directly absorbed solar radiation. While some products (e.g., oxalate) may require postprocessing, others could be directly extracted for long-term storage (e.g., carbon flakes). The local climatic environment impacts the efficiency and conversion rate of the system, the storage potential depends on the product due to potential geochemical interactions between storage site and sink product.
+    <em> <font size="2"> <p style="line-height:1"> Principle of terrestrial photoelectrochemical carbon sinks. Atmospheric CO2 is captured into an electrolyte and converted to carbon-rich products in a cell using directly absorbed solar radiation. While some products (e.g., oxalate) may require postprocessing, others could be directly extracted for long-term storage (e.g., carbon flakes). The local climatic environment impacts the efficiency and conversion rate of the system, the storage potential depends on the product due to potential geochemical interactions between storage site and sink product.
         (https://doi.org/10.1002/aenm.202103801) </p></font> </em>
 </p>
 
