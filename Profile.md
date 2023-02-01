@@ -1,5 +1,5 @@
  ------------------------------
- ###<center> Florian Keller - MSc. </center> <br>
+ <font size="4"> <p style="line-height:1"><center> **Florian Keller - MSc.** </center></p></font> <br>
 ![image](assets/logos/Profile-pic.png){: align="center"}{: width="25%" }
 
 **<center> Theoretical and Experimental Chemist </center>**
